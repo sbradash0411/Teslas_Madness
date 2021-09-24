@@ -1,4 +1,3 @@
-   
 h1 {
   color: purple;
   text-align: center;
@@ -6,12 +5,22 @@ h1 {
   font-family: Rooney;
   
 }
+
 p {
   color: #FFBF00;
   text-align: center;
   font-size: 18 px;
-  font-family: Verdana;
+  font-family: verdana;
   background: #601A35;
   padding-bottom: 15px;
+}
 
+fig-caption {
+   font-family: helvetica;
+   font-size: 14 px;
+}
+
+img {
+   padding-top: 10 px;
+   padding-bottom: 10 px;
 }
