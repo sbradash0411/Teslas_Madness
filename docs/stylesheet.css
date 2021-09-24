@@ -11,9 +11,6 @@ p {
   font-size: 18 px;
   font-family: Verdana;
   background: #601A35;
-  
-}
-img {
-  background: pink;
-  bottom-margin: 12px;
+  padding-bottom: 15px;
+
 }
