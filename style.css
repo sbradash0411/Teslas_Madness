@@ -16,6 +16,7 @@ p {
 }
 
 fig-caption {
+   color: black; 
    font-family: helvetica;
    font-size: 14 px;
 }
