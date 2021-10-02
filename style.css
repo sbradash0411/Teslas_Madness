@@ -28,6 +28,9 @@ img {
 
 nav ul {
   background-color: white;
+  text-color: purple;
   list-style: none;
   padding: 0;
+  width: 300px;
+  border: 2px solid purple;
 }
