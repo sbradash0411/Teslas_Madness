@@ -25,3 +25,9 @@ img {
    padding-top: 10 px;
    padding-bottom: 10 px;
 }
+
+nav ul {
+  background-color: white;
+  list-style: none;
+  padding: 0;
+}
