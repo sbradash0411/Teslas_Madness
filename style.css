@@ -30,7 +30,9 @@ nav ul {
   background-color: white;
   text-color: purple;
   list-style: none;
-  padding: 0;
+  font-family: verdana;
+  font-size: 16 px;
+  padding: 2 px;
   width: 300px;
   border: 2px solid purple;
 }
