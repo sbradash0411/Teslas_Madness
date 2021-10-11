@@ -46,10 +46,10 @@ img {
 }
 
 .site-nav .site-nav-item a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 .site-nav .site-nav-item a:hover {
-  text-decoration: bold;
+  text-decoration: underline;
 }
