@@ -26,7 +26,7 @@ img {
    padding-bottom: 10 px;
 }
 
-nav ul {
+.site-nav {
   background-color: white;
   text-color: purple;
   list-style: none;
@@ -37,11 +37,19 @@ nav ul {
   border: 2px solid purple;
 }
 
-nav ul li {
+.site-nav .site-nav-item {
   border-bottom: 2px solid purple;
   padding: 5px;
 }
-
-nav ul li:last-child {
+.site-nav .site-nav-item:last-child {
   border-bottom: none;
+}
+
+.site-nav .site-nav-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.site-nav .site-nav-item a:hover {
+  text-decoration: bold;
 }
