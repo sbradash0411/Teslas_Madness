@@ -1,1 +1,72 @@
+article{
+  font-kerning: auto;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5 px;
+  padding-bottom: 5 px;
+  font-family: tahoma;
+}
+
+figcaption {
+  font-size: 20px;
+  font-family: tahoma;
+}
+h1 { 
+  font-family: tahoma;
+  color: #2C041C;
+  font-size: 30 px;
+  text-align: center;
+  text-border: red;
+}
+
+h2 {
+  font-family: tahoma;
+  color: black;
+  font-size: 20 px;
+  text-align: center;
+}
+
+figure {
+  aspect-ratio: auto;
+  padding: 5px;
+  text-align: center;
+  border-width: 1px;
+  border-style: hidden;
+}
+
+table {
+  width: auto;
+  height: auto;
+  margin: 20px auto;
+  table-layout: auto;
+}
+
+.fixed {
+  table-layout: fixed;
+}
+
+table,
+td,
+th {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: solid 1px;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  font-size: 22 px;
+}
+}
+  
+}
+
 
