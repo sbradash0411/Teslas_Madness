@@ -2,6 +2,10 @@ article{
   font-kerning: auto;
 }
 
+body {
+  background-color: #CCDCFD;
+  
+}
 p {
   font-size: 20px;
   text-align: center;
