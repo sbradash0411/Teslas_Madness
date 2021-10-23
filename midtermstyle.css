@@ -71,6 +71,7 @@ table,
 td,
 th {
   border-collapse: collapse;
+  font-family: tahoma;
 }
 
 th,
@@ -84,6 +85,7 @@ td {
   text-align: center;
   font-size: 10 px;
   font-kerning: auto;
+  font-family: tahoma;
 }
 }
   
