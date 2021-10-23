@@ -4,6 +4,9 @@ article{
 
 body {
   background-color: #CCDCFD;
+  text-rendering: geometricPrecision;
+  font-kerning: auto;
+  
   
 }
 p {
@@ -47,6 +50,7 @@ figure {
   text-align: center;
   border-width: 1px;
   border-style: hidden;
+  font-kerning: auto;
 }
 
 table {
@@ -76,6 +80,7 @@ td {
 #footer {
   text-align: center;
   font-size: 16 px;
+  font-kerning: auto;
 }
 }
   
