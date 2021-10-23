@@ -21,6 +21,7 @@ figcaption {
   font-size: 20px;
   font-family: tahoma;
 }
+
 h1 { 
   font-family: tahoma;
   color: #2C041C;
@@ -51,6 +52,7 @@ figure {
   border-width: 1px;
   border-style: hidden;
   font-kerning: auto;
+  font-family: tahoma;
 }
 
 table {
@@ -58,6 +60,7 @@ table {
   height: auto;
   margin: 20px auto;
   table-layout: auto;
+  font-family: tahoma;
 }
 
 .fixed {
