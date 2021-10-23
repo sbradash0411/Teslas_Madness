@@ -33,6 +33,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: tahoma;
+  color: black;
+  font-size: 15 px;
+  text-align: center;
+}
+
+
 figure {
   aspect-ratio: auto;
   padding: 5px;
