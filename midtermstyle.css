@@ -73,6 +73,7 @@ td,
 th {
   border-collapse: collapse;
   font-family: tahoma;
+  font-weight: bold;
 }
 
 th,
