@@ -40,7 +40,7 @@ h2 {
 h3 {
   font-family: tahoma;
   color: black;
-  font-size: 15 px;
+  font-size: 10 px;
   text-align: center;
 }
 
@@ -61,6 +61,7 @@ table {
   margin: 20px auto;
   table-layout: auto;
   font-family: tahoma;
+  font-weight: bold;
 }
 
 .fixed {
