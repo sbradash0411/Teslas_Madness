@@ -61,3 +61,6 @@ img {
   font-family: verdana;
 }
 
+@-ms-viewport{
+  width: device-width;
+}
