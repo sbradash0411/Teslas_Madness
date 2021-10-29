@@ -53,3 +53,10 @@ img {
 .site-nav .site-nav-item a:hover {
   text-decoration: underline;
 }
+
+#footer {
+  text-align: center;
+  font-size: 10 px;
+  font-kerning: auto;
+  font-family: verdana;
+}
