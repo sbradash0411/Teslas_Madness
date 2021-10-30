@@ -24,6 +24,8 @@ fig-caption {
 img {
    padding-top: 10 px;
    padding-bottom: 10 px;
+   max-width: 100%;
+   max-height: auto;
 }
 
 .site-nav {
