@@ -65,8 +65,3 @@ img {
   width: device-width;
   height: device-height;
 }
-
-.max-width-auto-height-auto {
-  max-width: auto;
-  height: auto;
-}
