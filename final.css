@@ -1,1 +1,67 @@
+body {
+  background-color: black;
+  opacity: 1;
+  text-align: center;
+  text-decoration: none;
+  font-kerning: auto;
+}
+
+h1 {
+  background-color: lightblue;
+  color: black;
+  text-align: center;
+}
+
+div {
+  background-color: blue;
+  color: black;
+  padding: 20px;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwksgmhTgQDYrgyYkKJ3RdARjYMXI0OVZOQ&usqp=CAU");
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  background: lightblue;
+  padding: 10px;
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+  display: block;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  a:hover {
+    border-bottom-color: transparent;
+  }
+}
+
+blockquote {
+  font-size: 20px;
+  color: black;
+  background: white;
+}
+
+figure {
+  padding: 10px;
+}
+
+figcaption {
+  font-size: 36 px;
+  color: black;
+  background: white;
+  padding: 5px;
+}
 
