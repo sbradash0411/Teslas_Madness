@@ -4,6 +4,7 @@ body {
   text-align: center;
   text-decoration: none;
   font-kerning: auto;
+  text-rendering: geometricPrecision;
 }
 
 h1 {
